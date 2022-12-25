@@ -1,0 +1,1 @@
+swipl -t "use_module(plunit), load_test_files([]), run_tests." -s assignment4
